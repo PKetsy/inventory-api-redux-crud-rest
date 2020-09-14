@@ -1,26 +1,3 @@
 {
-  "orders": [
-    {
-      "Rulers": "7",
-      "Highlighters": "7",
-      "Notebooks": "77",
-      "Pencils": "7",
-      "Pens": "7",
-      "StaplePacks": "7",
-      "StickyNotePacks": "7",
-      "userId": "100480729267306735862",
-      "id": 1
-    },
-    {
-      "Rulers": "5",
-      "Highlighters": "5",
-      "Notebooks": "5",
-      "Pencils": "5",
-      "Pens": "5",
-      "StaplePacks": "55",
-      "StickyNotePacks": "5",
-      "userId": null,
-      "id": 2
-    }
-  ]
+  "orders": [{}]
 }
